@@ -1,7 +1,5 @@
 This is a forked version of ClojureScript, from r1806, to fix a defect in the string replace function (a fix appeared in a later version of cljs).
 
-This is a second change to the readme to bump the version up.
-
 ## What is ClojureScript? ##
 
 ClojureScript is a new compiler for [Clojure](http://clojure.org) that targets JavaScript. It is designed to emit JavaScript code which is compatible with the advanced compilation mode of the [Google Closure](http://code.google.com/closure/) optimizing compiler.
